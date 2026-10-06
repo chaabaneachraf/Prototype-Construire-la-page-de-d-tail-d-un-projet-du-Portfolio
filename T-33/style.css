@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    color: #1f2937;
+    background: #f9fafb; /* Fond gris très clair */
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+}
+img{
+    display: inline-block;
+    max-width: 100%;
+}
+.me img{
+    height: 300px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.bon{
+    display: inline-block;
+    margin-bottom: 5px;
+    padding: 8px 24px;
+    color: #1c5bba;
+    font-size: 14px;
+    background: white;
+}
+.content{
+    margin: 0 auto;
+    color: #111827;
+    font-family: Georgia, serif;
+    font-size: 18px;
+    line-height: 1.15;
+}
